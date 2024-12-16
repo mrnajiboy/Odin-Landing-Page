@@ -31,6 +31,7 @@ button p {
 .container {
     margin: 0 auto;
     display: flex;
+    flex-wrap: wrap;
 }
 body > .container, section > .container, header > .container {
     max-width: 65vw;
